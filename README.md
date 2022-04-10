@@ -5,7 +5,7 @@ NIM       : 215150607111016
 Kelas     : PTI - C                                                                          
 
 Pengumpulan Tugas UTP 2022 :                                                             
-Repository ini mempunyai beberapa branch masing masing cabang untuk 1 tugas.              
+Repository ini mempunyai beberapa branch masing masing branch untuk 1 tugas.              
 
 ada 4 branch :                                                                            
 - Tugas 1                                                                                 
